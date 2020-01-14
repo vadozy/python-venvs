@@ -1,0 +1,14 @@
+pandas
+pandas-datareader
+matplotlib
+jupyter
+scipy
+seaborn
+scikit-learn
+pylint
+pytest
+mypy
+# ipylint==2.2.2
+# typing-extensions==3.7.2
+# mypy==0.701
+
