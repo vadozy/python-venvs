@@ -8,6 +8,9 @@ scikit-learn
 pylint
 pytest
 mypy
+# Next used by Pragmatic "Python Testing with pytest"
+click
+tinydb
 # ipylint==2.2.2
 # typing-extensions==3.7.2
 # mypy==0.701
