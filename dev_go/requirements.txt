@@ -5,6 +5,8 @@ pylint
 pytest
 mypy
 pyzmq
+jupyter
+matplotlib
 
 #  numpy
 #  keras >= 2.0.0
