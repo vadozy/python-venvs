@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+jupyter
+ipython
+scipy
+sympy
+seaborn
+sortedcontainers
+pylint
+pytest
+mypy
+
